@@ -26,7 +26,7 @@
 
 ---
 
-# 👋 Hi, I'm Navneet Rajput
+# 👋 Hi, I'm Navneet Singh Rajput
 
 ### 🐍 Python Developer | Data Science Enthusiast
 
