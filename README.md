@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Navneet%20Singh%20Rajput&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Navneet%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C9AB7&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Data+Analytics+Learner;Exploring+Machine+Learning;Building+Practical+Projects" alt="Typing Animation"/>
@@ -31,7 +31,7 @@
 
 ---
 
-# 👋 Hi, I'm Navneet Singh Rajput
+# 👋 Hi, I'm Navneet Singh 
 
 ### 🐍 Python Developer | Data Science Enthusiast
 
