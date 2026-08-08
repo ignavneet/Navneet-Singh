@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Navneet %20Rajput&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Navneet%20Singh%20Rajput&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
+<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C9AB7&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Data+Analytics+Learner;Exploring+Machine+Learning;Building+Practical+Projects" alt="Typing Animation"/>
 
 <br>
 
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=ignavneet&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
+
+<!-- Social Links -->
 
 <a href="https://linkedin.com/in/navneet-singh-31a090253">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -112,12 +117,6 @@ patterns in Netflix movies and TV shows.
 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
-<br>
-
-<a href="https://github.com/ignavneet">
-<img src="https://img.shields.io/badge/Explore%20Projects-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 ---
 
 # 📚 Relevant Coursework
@@ -187,7 +186,7 @@ professional team.
 </a>
 
 <a href="https://linkedin.com/in/navneet-singh-31a090253">
-<img src="https://img.shields.io/badge/LinkedIn-Navneet%20Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Navneet%20Singh%20Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ignavneet">
@@ -210,6 +209,8 @@ in Python, Data Analytics, and related technologies.
 ### 💙 Thanks for visiting my profile!
 
 ⭐ Feel free to explore my repositories and connect with me.
+
+<!-- Animated Footer -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" width="100%"/>
 
